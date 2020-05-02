@@ -3,8 +3,8 @@
 
 #include "A.h"
 #include "B.h"
-#include "DelegateHandler.h"
-#include "IDelegateHandler.h"
+//#include "DelegateHandler.h"
+//#include "IDelegateHandler.h"
 
 #include "Macro_Delegate.h"
 
