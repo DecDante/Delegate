@@ -1,3 +1,3 @@
 # Delegate
-Delegate implemented in C++
-But still don't understand the Macros int Macro_Delegate
+Delegate implemented in C++.
+The macro trick is very clever!
